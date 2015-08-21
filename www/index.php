@@ -15,7 +15,7 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo-white.png" />
+	<img id="logo" src="logo-black.png" />
 	<h1><?php echo "Hello Docker Hub Automated Builds!"; ?></h1>
 </body>
 </html>
