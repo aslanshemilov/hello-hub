@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello Docker Hub Automated Builds!</title>
+	<title>Hello Docker Hub Webhooks!</title>
 	<style>
 	body {
 		background-color: white;
@@ -16,6 +16,6 @@
 </head>
 <body>
 	<img id="logo" src="logo-white.png" />
-	<h1><?php echo "Hello Docker Hub Automated Builds!"; ?></h1>
+	<h1><?php echo "Hello Docker Hub Webhooks!"; ?></h1>
 </body>
 </html>
